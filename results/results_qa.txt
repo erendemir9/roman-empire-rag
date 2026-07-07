@@ -1,0 +1,41 @@
+Question: What was the basic unit of the Roman army?
+Answer: The basic unit of the Roman army was the legion. During the imperial period, a legion typically numbered around 5,000 soldiers, composed primarily of heavy infantry recruited from Roman citizens.
+Response time: 0.65 s
+Retrieved chunks: ['chunk_5', 'chunk_6', 'chunk_7', 'chunk_8', 'chunk_4']
+----------------------------------------
+Question: Who was the first Roman emperor?
+Answer: The first Roman emperor was Augustus, also known as Octavian. He became the Emperor in 27 BC when he received the title "Augustus" from the Senate to mark the end of the Roman Republic and the beginning of the Roman Empire.
+Response time: 0.77 s
+Retrieved chunks: ['chunk_1', 'chunk_2', 'chunk_4', 'chunk_17', 'chunk_0']
+----------------------------------------
+Question: How much were Roman legionaries paid per year?
+Answer: Roman legionaries were initially paid 225 denarii per year under Augustus. This amount stayed the same for over a century until Domitian increased it by a third.
+Response time: 0.61 s
+Retrieved chunks: ['chunk_8', 'chunk_5', 'chunk_6', 'chunk_11', 'chunk_12']
+----------------------------------------
+Question: What was the Roman Republic's written law code called?
+Answer: The Roman Republic's written law code called the Twelve Tables.
+Response time: 0.3 s
+Retrieved chunks: ['chunk_4', 'chunk_2', 'chunk_19', 'chunk_13', 'chunk_3']
+----------------------------------------
+Question: What happened at the Battle of the Teutoburg Forest?
+Answer: At the Battle of the Teutoburg Forest in AD 9, three Roman legions led by Publius Quinctilius Varus were ambushed and completely destroyed by a coalition of Germanic tribes. This battle was very shocking to Augustus, who was so upset that he never used those legion numbers again. It made Rome decide not to try and take control of areas east of the Rhine River.
+Response time: 1.17 s
+Retrieved chunks: ['chunk_19', 'chunk_8', 'chunk_17', 'chunk_18', 'chunk_7']
+----------------------------------------
+Question: What was the Colosseum used for?
+Answer: The Colosseum was used for gladiatorial combats and other public spectacles. It was a huge amphitheater where people would go to watch trained fighters fight each other or animals in what were essentially brutal fights for entertainment. They'd gather in large crowds to see these events, which could be quite dangerous as the fighters were often poorly trained and unprepared for such combat.
+Response time: 1.11 s
+Retrieved chunks: ['chunk_15', 'chunk_12', 'chunk_10', 'chunk_17', 'chunk_8']
+----------------------------------------
+Question: Which emperor made Christianity tolerated in the Roman Empire?
+Answer: The emperor who granted toleration to Christianity throughout the Roman Empire was Constantine. He issued something called the Edict of Milan in AD 313 which allowed Christians some freedom and protection from persecution. However, it's important to note that making Christianity the official state religion happened later with Emperor Theodosius I through the Edict of Thessalonica in AD 380.
+Response time: 1.12 s
+Retrieved chunks: ['chunk_16', 'chunk_1', 'chunk_17', 'chunk_14', 'chunk_4']
+----------------------------------------
+Question: What caused the fall of the Western Roman Empire?
+Answer: The fall of the Western Roman Empire was due to a combination of factors including political instability, civil wars, economic difficulties like currency debasement and heavy taxation, sustained military pressure from Germanic peoples along an extremely long frontier that was difficult to defend, and the sheer administrative and logistical challenge of governing such a vast territory with premodern communication and transportation technology.
+Response time: 1.01 s
+Retrieved chunks: ['chunk_18', 'chunk_17', 'chunk_1', 'chunk_0', 'chunk_19']
+----------------------------------------
+Average response time: 0.84 s

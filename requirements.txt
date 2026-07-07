@@ -1,0 +1,6 @@
+fpdf2
+pypdf
+sentence-transformers
+chromadb
+ollama
+streamlit
