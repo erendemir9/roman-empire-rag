@@ -41,3 +41,7 @@ streamlit run app.py   (optional web interface, run from the src folder)
 ## Note
 
 You need Ollama running with the `qwen2.5:3b` model.
+
+## License
+
+This project is licensed under the MIT License.
